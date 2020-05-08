@@ -1,0 +1,17 @@
+{
+  "name": "wise-words",
+  "displayName": "wise-words",
+  "expo": {
+    "name": "wise-words",
+    "slug": "wise-words",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
